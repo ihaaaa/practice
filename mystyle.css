@@ -1,0 +1,47 @@
+body {
+  background-color: #E1CCEC;
+  margin-right: 10%;
+  margin-left: 10%;
+  font-family: 'Rubik', sans-serif;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+figcaption {
+  font-family: “Playfair Display”, “Didot”, "Times New Roman", Times, serif;
+}
+
+.myDiv {
+  background-color: #0A1D37;
+  text-align: center;
+}
+.mydiv2{
+  background-color:#084594;
+  text-align: center;
+}
+.mydiv3{
+  background-color: #2EB086;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color:white;
+}
+h2 {
+  color: white;
+}
+h3{
+  text-align:center;
+  color: #FDEFF4;
+}
